@@ -1,0 +1,75 @@
+body{
+	text-align: center;
+	background-image: url(../images/bg-curvy-desktop.svg);
+	background-color: #1C2230;
+	color: #fff;
+}
+img{
+	width: 50%;
+}
+h6{
+	line-height: 2.5;
+}
+.navbar-brand{
+
+}
+
+.Intro{
+	padding: 2% 33%;
+}
+.buttons{
+	padding: 0 90px;
+	font-size: 1rem;
+	border-radius: 20px;
+	color: #fff;
+	background-color: #41AFD0;
+	box-shadow: 1px 1px 1px 1px #41AFD0;
+	line-height: 2; 
+}
+     /*images section*/
+#features{
+	padding: 7% 25% ;
+}
+.image{
+	padding: 5% 5%;
+}
+.image-2{
+	width: 40%;
+}
+.image-4{
+	width: 48%;
+}
+.image-6{
+	width: 8%;
+}
+.quotes{
+	width: 15%;
+}
+.profile-1{
+	border-radius: 100%;
+	width: 10%;
+}
+.community{
+	margin: 7%  0% 5% 6%;
+	background-color: #21293C;
+	border-radius: 10px;
+	box-shadow: 10px 10px 15px 15px #1A212B;
+}
+#Footer{
+	text-align: left;
+	padding: 4% 4%;
+	background-color: #0C1524;
+}
+.logo{
+	width: 15%;
+	padding: 5% 1%;
+}
+.my-button{
+	background-color: #54C3D6;
+	border-radius: 100px;
+	color: #fff;
+	box-shadow: 1px 1px 2px 2px #54C3D6;
+}
+#community{
+	padding: 4% 35%;
+}
